@@ -56,7 +56,7 @@ Built with pure **HTML5**, **CSS3**, and **vanilla JavaScript**, this project de
 ## 📸 Screenshots
 
 ### Homepage Hero Section
-![Homepage](screenshots/herosection.png)
+https://github.com/nareshchandu17/woolflown-e-commerce/blob/1551aa5f8322f4934e1926fdbbe8e7cb7860efea/herosection.png
 
 ### Product Collection Grid
 ![Product Collection](screenshots/product%20detail.png)
