@@ -68,7 +68,7 @@ Built with pure **HTML5**, **CSS3**, and **vanilla JavaScript**, this project de
 ![Product Filters](screenshots/productsfilters.png)
 
 ### Brand Story Section
-![Brand Story](screenshots/story.png)
+![img alt](https://github.com/nareshchandu17/woolflown-e-commerce/blob/024d87a78e411439054eed47740cfa7ccf538c68/README.md)
 
 ---
 
