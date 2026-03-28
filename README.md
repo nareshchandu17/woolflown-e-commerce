@@ -56,16 +56,16 @@ Built with pure **HTML5**, **CSS3**, and **vanilla JavaScript**, this project de
 ## 📸 Screenshots
 
 ### Homepage Hero Section
-![Homepage](screenshots/hero.png)
+![Homepage](screenshots/herosection.png)
 
 ### Product Collection Grid
-![Product Collection](screenshots/products.png)
+![Product Collection](screenshots/products detail.png)
 
 ### Quick View Product Modal
-![Product Modal](screenshots/modal.png)
+![Product Modal](screenshots/products.png)
 
 ### Product Filters Interface
-![Product Filters](screenshots/filters.png)
+![Product Filters](screenshots/productsfilters.png)
 
 ### Brand Story Section
 ![Brand Story](screenshots/story.png)
