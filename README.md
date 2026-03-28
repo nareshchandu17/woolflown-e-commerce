@@ -62,7 +62,7 @@ Built with pure **HTML5**, **CSS3**, and **vanilla JavaScript**, this project de
 ![img alt](https://github.com/nareshchandu17/woolflown-e-commerce/blob/5eeb5b8e96cc37713e3eb0ee31efc592b7663a26/resources/products.png)
 
 ### Quick View Product Modal
-![Product Modal](screenshots/products.png)
+![img alt](https://github.com/nareshchandu17/woolflown-e-commerce/blob/41363f45cf7478a2931d79cd84caa58257312625/resources/product%20detail.png)
 
 ### Product Filters Interface
 ![Product Filters](screenshots/productsfilters.png)
